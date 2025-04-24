@@ -10,8 +10,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## AlgorithmImport the required libraries.
 
 1.Upload and read the dataset.
+
 2.Check for any null values using the isnull() function.
+
 3.From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
+
 4.Find the accuracy of the model and predict the required values by importing the required module from sklearn.
 
 ## Program:
@@ -59,7 +62,7 @@ plt.title("Decision Tree - Employee Churn Prediction")
 
 ![Screenshot 2025-04-24 143002](https://github.com/user-attachments/assets/ba64792a-444c-4f78-ae32-6f87431a4586)
 
-![Screenshot 2025-04-24 143002](https://github.com/user-attachments/assets/c5bf714f-1370-43dc-af66-8e4128f85d82)
+![Screenshot 2025-04-24 143528](https://github.com/user-attachments/assets/27b43581-5563-4cff-8221-7c9c74b8fb34)
 
 
 ## Result:
